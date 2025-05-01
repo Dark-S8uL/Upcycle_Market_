@@ -188,9 +188,10 @@
       "mediaType": "image",
       "forSale": true,
       "price": 19,
-      "likes": 1,
+      "likes": 2,
       "likedBy": [
-        "riya"
+        "riya",
+        "jhon"
       ],
       "comments": [
         {
