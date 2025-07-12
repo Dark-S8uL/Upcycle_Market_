@@ -29,6 +29,7 @@ The **Upcycle Market** is an innovative web platform designed to promote sustain
 - **JavaScript**: Client-side scripting.
 - **Node.js**: Backend functionality and server-side logic.
 - **Express.js**: Web framework for Node.js to handle routing and server management.
+- **MongoDB**: Managing user profiles and post data with a secure database.
 
 ## Screenshots
 
